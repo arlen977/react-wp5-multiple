@@ -1,1 +1,1 @@
-react + webpack5 多页面项目模板
+react + webpack5 + antd + mobx 多页面项目模板
